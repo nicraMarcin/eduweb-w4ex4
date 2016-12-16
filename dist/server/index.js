@@ -1,0 +1,5 @@
+"use strict";
+var server_1 = require('./server');
+var server = server_1.Server.bootstrap().StartServer();
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSx1QkFBcUIsVUFBVSxDQUFDLENBQUE7QUFFaEMsSUFBSSxNQUFNLEdBQUcsZUFBTSxDQUFDLFNBQVMsRUFBRSxDQUFDLFdBQVcsRUFBRSxDQUFDIiwiZmlsZSI6ImluZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHtTZXJ2ZXJ9IGZyb20gJy4vc2VydmVyJztcclxuXHJcbnZhciBzZXJ2ZXIgPSBTZXJ2ZXIuYm9vdHN0cmFwKCkuU3RhcnRTZXJ2ZXIoKTtcclxuIl19
